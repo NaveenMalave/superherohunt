@@ -2,6 +2,15 @@
 hello world
 # communication
 ![communication](imj/black.jpg)
+Directional means that the beam is well collimated (very parallel) and travels over
+long distances with very little spread.
+➢ In conventional light sources (lamp, sodium lamp and torchlight), photons will
+travel in random direction. Therefore, these light sources emit light in all directions
+and is highly divergent.
+➢ On the other hand, in laser, all photons will travel in same direction. Therefore, laser
+emits light only in one direction. This is called directionality of laser light. The width
+of a laser beam is extremely narrow. Hence, a laser beam can travel to long
+distances without spreading.
 ...js
 console.log('hello');
 ...
