@@ -1,2 +1,2 @@
 # superherohunt
-[Home](README.md)|[cast]
+[Home](README.md)|[cast](cast.md)
